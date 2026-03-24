@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","587","Create book - success @smoke","chromium","2026-03-24","passed","2026-03-24","Books API - Create","api/books/CreateBooks.spec.ts","",""
+"","653","Create book - success @smoke","chromium","2026-03-24","passed","2026-03-24","Books API - Create","api/books/CreateBooks.spec.ts","",""
