@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","812","Create book - success @smoke","api","2026-03-30","passed","2026-03-30","Books API - Create","api/books/CreateBooks.spec.ts","",""
-"","4878","User can login with valid credentials @smoke","ui-chromium","2026-03-30","passed","2026-03-30","Login Page - Feature Tests > Positive Scenario - Successful Login","ui/auth/LoginPageTests.spec.ts","",""
+"","3862","User can login with valid credentials @smoke","ui-chromium","2026-03-30","passed","2026-03-30","Login Page - Feature Tests > Positive Scenario - Successful Login","ui/auth/LoginPageTests.spec.ts","",""
+"","599","Create book - success @smoke","api","2026-03-30","passed","2026-03-30","Books API - Create","api/books/CreateBooks.spec.ts","",""
