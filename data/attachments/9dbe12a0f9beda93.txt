@@ -1,4 +1,0 @@
-Registered cleanup action. Total: 1
-Running 1 cleanup actions...
-Cleanup action completed
-All cleanup actions completed
