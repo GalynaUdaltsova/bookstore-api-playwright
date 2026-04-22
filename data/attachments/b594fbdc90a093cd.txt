@@ -1,7 +1,0 @@
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Unbranded Bamboo Hat","description":"Virgo celebrer antepono amor eum deorsum vulgus crux pax concedo.","pageCount":146,"excerpt":"Autus tero comprehendo temporibus rerum triduana vox animus. Vae victoria desparatus auctor. Solio currus ascisco arma creptio ara sufficio necessitatibus.","publishDate":"2026-04-22T12:01:55.059Z"}
-Registered cleanup action. Total: 1
-Running 1 cleanup actions in LIFO order...
-[API REQUEST] DELETE https://fakerestapi.azurewebsites.net/api/v1/Books/0
-Cleanup action 1/1 completed
-All cleanup actions completed

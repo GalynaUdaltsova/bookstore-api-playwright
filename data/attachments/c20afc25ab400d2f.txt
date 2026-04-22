@@ -1,0 +1,7 @@
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Unbranded Granite Table","description":"Quae amoveo ara sed voluptatum accommodo et.","pageCount":727,"excerpt":"Viscus aeger tutis. Varietas tenuis degusto adficio. Ultra alveus spiculum sit cauda beatus vulnus surgo.","publishDate":"2026-04-22T14:21:50.681Z"}
+Registered cleanup action. Total: 1
+Running 1 cleanup actions in LIFO order...
+[API REQUEST] DELETE https://fakerestapi.azurewebsites.net/api/v1/Books/0
+Cleanup action 1/1 completed
+All cleanup actions completed

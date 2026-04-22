@@ -1,3 +1,0 @@
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Tasty Metal Car","description":"Absconditus xiphias truculenter testimonium tubineus.","pageCount":743,"excerpt":"Tollo aestivus dedecor solum. Tepesco totus defaeco tres temperantia demonstro at. Aurum tandem solvo textor in sufficio.","publishDate":"invalid-date"}
-No cleanup actions to run
