@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "types": ["node", "@playwright/test"],
+
+    "baseUrl": "src",
+    "paths": {
+      "@fixtures/*": ["fixtures/*"],
+      "@fixtures/api/*": ["fixtures/api/*"],
+      "@fixtures/ui/*": ["fixtures/ui/*"],
+      "@api/*": ["api/*"],
+      "@builders/*": ["builders/*"],
+      "@builders/api/*": ["builders/api/*"],
+      "@builders/ui/*": ["builders/ui/*"],
+      "@models/*": ["models/*"],
+      "@config/*": ["config/*"],
+      "@helpers/*": ["helpers/*"],
+      "@helpers/api/*": ["helpers/api/*"],
+      "@helpers/ui/*": ["helpers/ui/*"],
+      "@ui/*": ["ui/*"]
+    }
+  },
+  "include": ["src"]
+}

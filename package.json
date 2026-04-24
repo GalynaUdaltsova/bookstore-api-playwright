@@ -1,0 +1,53 @@
+{
+  "name": "bookstore-api-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:smoke": "ENV=qa TEST_GROUP=smoke playwright test",
+    "test:staging": "ENV=staging playwright test",
+    "report": "playwright show-report",
+    "report:allure": "allure generate allure-results --clean -o allure-report && allure open allure-report",
+    "install": "playwright install",
+    "lint": "eslint src --ext .ts",
+    "lint:fix": "eslint src --ext .ts --fix",
+    "format": "prettier --write src/**/*.ts",
+    "format:check": "prettier --check src/**/*.ts",
+    "format:all": "prettier --write .",
+    "type-check": "tsc --noEmit",
+    "code-quality": "npm run lint && npm run format:check && npm run type-check",
+    "docker:build": "docker build -t bookstore-tests .",
+    "docker:test": "docker run --rm -e ENV=qa -v $(pwd)/allure-results:/app/allure-results bookstore-tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalynaUdaltsova/bookstore-api-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GalynaUdaltsova/bookstore-api-playwright/issues"
+  },
+  "homepage": "https://github.com/GalynaUdaltsova/bookstore-api-playwright#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "@playwright/test": "1.58.2",
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^25.5.0",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "allure-playwright": "^3.6.0",
+    "dotenv": "^17.3.1",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3"
+  }
+}
