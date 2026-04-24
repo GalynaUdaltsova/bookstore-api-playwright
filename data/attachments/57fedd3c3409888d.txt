@@ -1,0 +1,2 @@
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Small Bronze Sausages","description":"Considero cultellus approbo.","pageCount":925,"excerpt":"Defluo combibo cogito atqui. Quas magnam tersus vitiosus cresco architecto defungo usus iusto. Brevis adopto pariatur torrens eveniet facere.","publishDate":"invalid-date"}

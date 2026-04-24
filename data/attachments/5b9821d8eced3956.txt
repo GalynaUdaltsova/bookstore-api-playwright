@@ -1,3 +1,0 @@
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Electronic Marble Chips","description":"Conatus degenero admoneo.","pageCount":71,"excerpt":"Asporto temporibus vereor complectus delectus. Tamen terga absconditus catena. Placeat tandem testimonium tolero verus sustineo virtus consuasor.","publishDate":"invalid-date"}
-No cleanup actions to run

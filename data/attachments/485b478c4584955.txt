@@ -1,0 +1,3 @@
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Incredible Bronze Tuna","description":"Armarium quo depereo sulum.","pageCount":496,"excerpt":"Aspicio caute aggredior caput peior conservo amplitudo abundans caute universe. Quisquam deprecator iusto via tui tyrannus curia vulgaris. Thermae repellat solus capitulus.","publishDate":"2026-04-24T11:18:29.287Z"}
+[API REQUEST] DELETE https://fakerestapi.azurewebsites.net/api/v1/Books/0
