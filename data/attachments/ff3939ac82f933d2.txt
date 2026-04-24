@@ -1,6 +1,6 @@
-[BooksApi] Creating book: Refined Bronze Car
+[BooksApi] Creating book: Handcrafted Gold Chicken
 [API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Refined Bronze Car","description":"Blanditiis solvo causa tres coruscus annus.","pageCount":164,"excerpt":"Copiose textilis defessus videlicet victoria. Deporto vero bene antiquus. Careo tunc vero aestus.","publishDate":"2026-04-24T13:16:08.403Z"}
+[BODY] {"id":0,"title":"Handcrafted Gold Chicken","description":"Cursus adsidue quisquam blanditiis volaticus.","pageCount":223,"excerpt":"Spoliatio facere quisquam conatus baiulus comitatus absorbeo clam caelestis. Cultura nemo deleniti. Distinctio verbera considero corona benigne.","publishDate":"2026-04-24T13:28:55.523Z"}
 [BooksApi] Book creation response received with status: 200
 [BooksApi] Book created successfully with ID: 0
 [DataCleaner] Starting cleanup of 1 actions

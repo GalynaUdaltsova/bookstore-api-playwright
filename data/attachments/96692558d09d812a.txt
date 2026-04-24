@@ -1,4 +1,4 @@
 [UiFixtures] Setting up login page
 [UiFixtures] Login page ready
-[LoginPage] Attempting login for: Roosevelt29@yahoo.com
+[LoginPage] Attempting login for: April.Ziemann-Lueilwitz50@gmail.com
 [LoginPage] Login form submitted
