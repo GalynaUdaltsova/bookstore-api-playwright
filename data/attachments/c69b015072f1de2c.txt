@@ -1,2 +1,0 @@
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Intelligent Granite Soap","description":"Comburo bardus curatio charisma coepi beatae sortitus.","pageCount":125,"excerpt":"Culpa voro incidunt subnecto compono abundans. Saepe conculco vigilo magnam crastinus vere incidunt callide sopor soluta. Argumentum succurro crur censura ratione solio tunc.","publishDate":"invalid-date"}

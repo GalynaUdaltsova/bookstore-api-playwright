@@ -1,0 +1,4 @@
+[UiFixtures] Setting up login page
+[UiFixtures] Login page ready
+[LoginPage] Attempting login for: test+special@example.com
+[LoginPage] Login form submitted

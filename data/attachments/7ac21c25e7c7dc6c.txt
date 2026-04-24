@@ -1,0 +1,5 @@
+[BooksApi] Creating book: Recycled Wooden Gloves
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Recycled Wooden Gloves","description":"Delinquo tener comparo.","pageCount":16,"excerpt":"Urbs absens vinco sperno terra urbs. Amet quidem voluptatum cognomen vilitas. Canto volva deripio acerbitas decipio casso accusantium cras.","publishDate":"invalid-date"}
+[BooksApi] Book creation response received with status: 400
+[BooksApi] Book creation failed with status: 400

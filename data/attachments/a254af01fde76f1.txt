@@ -1,3 +1,0 @@
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Refined Wooden Tuna","description":"Tam adiuvo perferendis nulla.","pageCount":232,"excerpt":"Nihil sumo suspendo aduro animus tremo. Cenaculum absconditus venustas cattus. Voveo strenuus supra asperiores ter claudeo curvo.","publishDate":"2026-04-24T12:01:32.406Z"}
-[API REQUEST] DELETE https://fakerestapi.azurewebsites.net/api/v1/Books/0

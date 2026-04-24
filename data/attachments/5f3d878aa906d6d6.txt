@@ -1,0 +1,11 @@
+[BooksApi] Creating book: Refined Bronze Car
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Refined Bronze Car","description":"Blanditiis solvo causa tres coruscus annus.","pageCount":164,"excerpt":"Copiose textilis defessus videlicet victoria. Deporto vero bene antiquus. Careo tunc vero aestus.","publishDate":"2026-04-24T13:16:08.403Z"}
+[BooksApi] Book creation response received with status: 200
+[BooksApi] Book created successfully with ID: 0
+[DataCleaner] Starting cleanup of 1 actions
+[BooksApi] Deleting book with ID: 0
+[API REQUEST] DELETE https://fakerestapi.azurewebsites.net/api/v1/Books/0
+[BooksApi] Book deleted successfully
+[DataCleaner] Cleanup action completed
+[DataCleaner] Cleanup completed
