@@ -1,6 +1,6 @@
-[BooksApi] Creating book: Handcrafted Gold Chicken
+[BooksApi] Creating book: Incredible Wooden Chicken
 [API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Handcrafted Gold Chicken","description":"Cursus adsidue quisquam blanditiis volaticus.","pageCount":223,"excerpt":"Spoliatio facere quisquam conatus baiulus comitatus absorbeo clam caelestis. Cultura nemo deleniti. Distinctio verbera considero corona benigne.","publishDate":"2026-04-24T13:28:55.523Z"}
+[BODY] {"id":0,"title":"Incredible Wooden Chicken","description":"Triumphus confugo cunae velociter ascit culpa subiungo.","pageCount":756,"excerpt":"Quia demens conicio utroque maxime. Enim commodo cibo umerus spiritus tamisium crinis vero sufficio. Ulciscor verbera ea alo synagoga suppellex tredecim canonicus constans.","publishDate":"2026-04-27T05:26:32.101Z"}
 [BooksApi] Book creation response received with status: 200
 [BooksApi] Book created successfully with ID: 0
 [DataCleaner] Starting cleanup of 1 actions

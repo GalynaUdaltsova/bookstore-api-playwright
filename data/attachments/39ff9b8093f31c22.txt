@@ -1,0 +1,5 @@
+[BooksApi] Creating book: Licensed Marble Cheese
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Licensed Marble Cheese","description":"Tergiversatio atqui deporto tergum aqua pectus dens adhaero.","pageCount":770,"excerpt":"Sub adficio atque valens spectaculum. Consequuntur aetas carbo abbas ambulo coadunatio admoneo adimpleo quaerat auxilium. Enim suppono votum cinis aedificium dedico voluptatibus spero attonbitus suppellex.","publishDate":"invalid-date"}
+[BooksApi] Book creation response received with status: 400
+[BooksApi] Book creation failed with status: 400

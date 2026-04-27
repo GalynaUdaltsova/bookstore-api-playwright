@@ -1,5 +1,0 @@
-[BooksApi] Creating book: Bespoke Bronze Ball
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Bespoke Bronze Ball","description":"Porro modi deleniti nulla voveo arma.","pageCount":414,"excerpt":"Adeo adicio hic. Ventito tui caelestis vita viscus capitulus. Tabella tenax velum ulterius suspendo odit carpo.","publishDate":"invalid-date"}
-[BooksApi] Book creation response received with status: 400
-[BooksApi] Book creation failed with status: 400
