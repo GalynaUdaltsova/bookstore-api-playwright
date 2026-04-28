@@ -35,7 +35,8 @@ export class ApiAssertions {
 
         const errorString = JSON.stringify(responseData);
 
-        expect(errorString, `Error message should contain: "${expectedText}"`)
-            .toContain(expectedText);
+        expect(errorString, `Error message should contain: "${expectedText}"`).toContain(
+            expectedText,
+        );
     }
 }
