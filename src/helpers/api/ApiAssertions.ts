@@ -17,31 +17,25 @@ export class ApiAssertions {
     }
 
     static assertValidBook(book: Book): void {
-        const bookMatcher: Record<keyof Book, unknown> = {
+        expect(book).toMatchObject({
             id: expect.any(Number),
             title: expect.any(String),
             description: expect.any(String),
             pageCount: expect.any(Number),
             excerpt: expect.any(String),
             publishDate: expect.any(String),
-        };
+        });
 
-        expect(book).toMatchObject(bookMatcher);
-
-        if (book.pageCount) {
-            expect(book.pageCount, 'Page count must be positive').toBeGreaterThan(0);
-        }
+        expect(book.pageCount, 'Page count must be positive').toBeGreaterThan(0);
     }
 
-    static assertError(responseData: unknown, expectedText?: string): void {
-        expect(responseData, 'Response should be defined').not.toBeNull();
+    static assertError(responseData: unknown, expectedText: string): void {
+        expect(responseData, 'Response should not be null').not.toBeNull();
         expect(responseData, 'Response should be an object').toBeInstanceOf(Object);
 
-        if (expectedText) {
-            const errorString = JSON.stringify(responseData);
-            expect(errorString, `Error message should contain: "${expectedText}"`).toContain(
-                expectedText,
-            );
-        }
+        const errorString = JSON.stringify(responseData);
+
+        expect(errorString, `Error message should contain: "${expectedText}"`)
+            .toContain(expectedText);
     }
 }
