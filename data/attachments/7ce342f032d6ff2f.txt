@@ -1,6 +1,6 @@
-[BooksApi] Creating book: Incredible Wooden Chicken
+[BooksApi] Creating book: Fantastic Granite Salad
 [API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Incredible Wooden Chicken","description":"Triumphus confugo cunae velociter ascit culpa subiungo.","pageCount":756,"excerpt":"Quia demens conicio utroque maxime. Enim commodo cibo umerus spiritus tamisium crinis vero sufficio. Ulciscor verbera ea alo synagoga suppellex tredecim canonicus constans.","publishDate":"2026-04-27T05:26:32.101Z"}
+[BODY] {"id":0,"title":"Fantastic Granite Salad","description":"Beneficium aro decimus tredecim minima ager sint vehemens arcesso.","pageCount":194,"excerpt":"Cunabula amo sui complectus quidem creo aiunt optio iusto decor. Porro venio nostrum cui voluptate commemoro talis ustilo. Aureus reprehenderit suadeo.","publishDate":"2026-04-28T11:42:29.031Z"}
 [BooksApi] Book creation response received with status: 200
 [BooksApi] Book created successfully with ID: 0
 [DataCleaner] Starting cleanup of 1 actions

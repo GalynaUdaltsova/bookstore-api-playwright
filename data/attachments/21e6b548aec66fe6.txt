@@ -1,0 +1,5 @@
+[BooksApi] Creating book: Rustic Gold Tuna
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Rustic Gold Tuna","description":"Campana caelum despecto culpo depono.","pageCount":229,"excerpt":"Amissio voluptatibus dolor tepesco bestia claudeo vilis aeneus adhaero terebro. Voluptas tempus conturbo. Caecus audacia ulciscor armarium crapula cras.","publishDate":"invalid-date"}
+[BooksApi] Book creation response received with status: 400
+[BooksApi] Book creation failed with status: 400
