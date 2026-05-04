@@ -1,0 +1,5 @@
+[BooksApi] Creating book: Generic Marble Salad
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Generic Marble Salad","description":"Defaeco demergo cibo tabgo asporto aspernatur amo addo trepide.","pageCount":327,"excerpt":"Bestia incidunt suffragium aestivus celo tergo correptius. Acerbitas apparatus acsi ventito cogo summopere deporto officia. Voluptate vulariter consequuntur denique triduana sumo deporto excepturi collum.","publishDate":"invalid-date"}
+[BooksApi] Book creation response received with status: 400
+[BooksApi] Book creation failed with status: 400

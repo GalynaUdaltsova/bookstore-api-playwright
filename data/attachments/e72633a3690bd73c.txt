@@ -1,6 +1,6 @@
-[BooksApi] Creating book: Fantastic Granite Salad
+[BooksApi] Creating book: Tasty Wooden Towels
 [API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Fantastic Granite Salad","description":"Beneficium aro decimus tredecim minima ager sint vehemens arcesso.","pageCount":194,"excerpt":"Cunabula amo sui complectus quidem creo aiunt optio iusto decor. Porro venio nostrum cui voluptate commemoro talis ustilo. Aureus reprehenderit suadeo.","publishDate":"2026-04-28T11:42:29.031Z"}
+[BODY] {"id":0,"title":"Tasty Wooden Towels","description":"Cresco amplexus carmen crustulum tego conatus supplanto.","pageCount":383,"excerpt":"Culpo beatus reiciendis tantum colligo. Calcar expedita arbitro vulgo acquiro adnuo triumphus trado. Solus vehemens studio confero vomer incidunt.","publishDate":"2026-05-04T05:37:25.582Z"}
 [BooksApi] Book creation response received with status: 200
 [BooksApi] Book created successfully with ID: 0
 [DataCleaner] Starting cleanup of 1 actions
