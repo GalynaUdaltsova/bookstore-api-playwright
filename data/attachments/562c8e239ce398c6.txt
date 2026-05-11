@@ -1,6 +1,6 @@
-[BooksApi] Creating book: Tasty Wooden Towels
+[BooksApi] Creating book: Small Metal Fish
 [API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Tasty Wooden Towels","description":"Cresco amplexus carmen crustulum tego conatus supplanto.","pageCount":383,"excerpt":"Culpo beatus reiciendis tantum colligo. Calcar expedita arbitro vulgo acquiro adnuo triumphus trado. Solus vehemens studio confero vomer incidunt.","publishDate":"2026-05-04T05:37:25.582Z"}
+[BODY] {"id":0,"title":"Small Metal Fish","description":"Absum textor titulus cogito claustrum.","pageCount":702,"excerpt":"Pecto ater custodia balbus denego maiores utrimque tollo succurro. Odit comedo capillus sumo subvenio utique vergo brevis. Abstergo abeo tutamen cunae venio.","publishDate":"2026-05-11T06:01:41.384Z"}
 [BooksApi] Book creation response received with status: 200
 [BooksApi] Book created successfully with ID: 0
 [DataCleaner] Starting cleanup of 1 actions
