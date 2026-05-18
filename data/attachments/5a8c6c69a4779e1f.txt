@@ -1,5 +1,0 @@
-[BooksApi] Creating book: Rustic Aluminum Pants
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Rustic Aluminum Pants","description":"Auctor ara ars allatus arx vero.","pageCount":719,"excerpt":"Thalassinus sufficio vado. Complectus cognatus abduco recusandae ullam arca debitis delinquo volup valde. Tripudio temeritas conduco.","publishDate":"invalid-date"}
-[BooksApi] Book creation response received with status: 400
-[BooksApi] Book creation failed with status: 400

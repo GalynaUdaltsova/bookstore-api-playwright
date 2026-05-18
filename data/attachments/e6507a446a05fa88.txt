@@ -1,0 +1,11 @@
+[BooksApi] Creating book: Unbranded Aluminum Hat
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Unbranded Aluminum Hat","description":"Tristis desidero corporis spiculum thalassinus.","pageCount":661,"excerpt":"Verumtamen eveniet decumbo pariatur una vicissitudo corporis provident cubitum fuga. Quis canto taedium adicio vicissitudo volup solio tactus colo. Tendo corrigo despecto caecus spoliatio ullus veritas vinitor coma aequitas.","publishDate":"2026-05-18T06:16:53.907Z"}
+[BooksApi] Book creation response received with status: 200
+[BooksApi] Book created successfully with ID: 0
+[DataCleaner] Starting cleanup of 1 actions
+[BooksApi] Deleting book with ID: 0
+[API REQUEST] DELETE https://fakerestapi.azurewebsites.net/api/v1/Books/0
+[BooksApi] Book deleted successfully
+[DataCleaner] Cleanup action completed
+[DataCleaner] Cleanup completed
