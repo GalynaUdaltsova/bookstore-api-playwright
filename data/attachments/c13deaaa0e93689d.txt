@@ -1,4 +1,4 @@
 [UiFixtures] Setting up login page
 [UiFixtures] Login page ready
-[LoginPage] Attempting login for: Pedro.Christiansen@hotmail.com
+[LoginPage] Attempting login for: Anibal16@gmail.com
 [LoginPage] Login form submitted

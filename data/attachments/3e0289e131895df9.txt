@@ -1,5 +1,0 @@
-[BooksApi] Creating book: Bespoke Silk Fish
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Bespoke Silk Fish","description":"Nisi cibo cumque dens demo versus officia doloribus.","pageCount":548,"excerpt":"Quidem aveho derideo varius quisquam communis aer cuius terreo. Praesentium abscido aufero aperte venio vehemens. Unde ademptio paens autus sponte tunc tenetur succedo theologus adimpleo.","publishDate":"invalid-date"}
-[BooksApi] Book creation response received with status: 400
-[BooksApi] Book creation failed with status: 400

@@ -1,0 +1,5 @@
+[BooksApi] Creating book: Recycled Wooden Shirt
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Recycled Wooden Shirt","description":"Solutio tricesimus adflicto.","pageCount":58,"excerpt":"Ventosus sonitus circumvenio attollo spectaculum corona vos angustus allatus exercitationem. Admitto acsi tam adduco defluo velociter. Adflicto acer temporibus clibanus aeternus inventore sum casus antepono.","publishDate":"invalid-date"}
+[BooksApi] Book creation response received with status: 400
+[BooksApi] Book creation failed with status: 400

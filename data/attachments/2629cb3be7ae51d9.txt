@@ -1,0 +1,11 @@
+[BooksApi] Creating book: Handmade Concrete Fish
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Handmade Concrete Fish","description":"Defendo vito tutamen coaegresco antepono minus comptus cras victus suasoria.","pageCount":687,"excerpt":"Alioqui undique vallum optio suscipit vix pauci alius barba amplexus. Vix sumo subvenio terror illo vomito temptatio consuasor. Sum voluptatem molestiae theologus.","publishDate":"2026-05-25T06:30:14.649Z"}
+[BooksApi] Book creation response received with status: 200
+[BooksApi] Book created successfully with ID: 0
+[DataCleaner] Starting cleanup of 1 actions
+[BooksApi] Deleting book with ID: 0
+[API REQUEST] DELETE https://fakerestapi.azurewebsites.net/api/v1/Books/0
+[BooksApi] Book deleted successfully
+[DataCleaner] Cleanup action completed
+[DataCleaner] Cleanup completed
