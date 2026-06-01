@@ -1,4 +1,4 @@
 [UiFixtures] Setting up login page
 [UiFixtures] Login page ready
-[LoginPage] Attempting login for: Demetrius_Deckow@yahoo.com
+[LoginPage] Attempting login for: Tanya49@gmail.com
 [LoginPage] Login form submitted
