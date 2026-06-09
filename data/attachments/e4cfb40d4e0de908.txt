@@ -1,6 +1,6 @@
-[BooksApi] Creating book: Intelligent Steel Sausages
+[BooksApi] Creating book: Fantastic Steel Sausages
 [API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Intelligent Steel Sausages","description":"Talio eum apto delicate caelestis verbera denego solum.","pageCount":101,"excerpt":"Demonstro solum amo uredo demo. Deduco temperantia statim amplitudo vae conatus beatus aestus. Expedita ante acsi ater via capto desipio patria.","publishDate":"2026-06-01T06:58:32.268Z"}
+[BODY] {"id":0,"title":"Fantastic Steel Sausages","description":"Doloribus urbs charisma damnatio cursim supplanto volva bellum voluntarius tertius.","pageCount":263,"excerpt":"Tutis nisi vomer quisquam ambulo fuga inventore soluta volaticus tubineus. Traho causa benevolentia. Comes aliqua agnosco tempora.","publishDate":"2026-06-09T07:39:14.255Z"}
 [BooksApi] Book creation response received with status: 200
 [BooksApi] Book created successfully with ID: 0
 [DataCleaner] Starting cleanup of 1 actions

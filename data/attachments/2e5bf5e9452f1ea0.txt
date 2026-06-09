@@ -1,5 +1,0 @@
-[BooksApi] Creating book: Modern Rubber Pizza
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Modern Rubber Pizza","description":"Vae cenaculum confido.","pageCount":206,"excerpt":"Curso terror comitatus facilis adsum defluo sublime. Vulticulus tenax absum crapula arma dedico verecundia coaegresco denego avaritia. Tam ultra temeritas aeternus vulgaris attonbitus.","publishDate":"invalid-date"}
-[BooksApi] Book creation response received with status: 400
-[BooksApi] Book creation failed with status: 400
