@@ -1,4 +1,4 @@
 [UiFixtures] Setting up login page
 [UiFixtures] Login page ready
-[LoginPage] Attempting login for: Kristie53@gmail.com
+[LoginPage] Attempting login for: Elissa.Collier9@gmail.com
 [LoginPage] Login form submitted

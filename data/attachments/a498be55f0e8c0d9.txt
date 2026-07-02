@@ -1,6 +1,6 @@
-[BooksApi] Creating book: Fantastic Steel Sausages
+[BooksApi] Creating book: Handmade Metal Chicken
 [API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Fantastic Steel Sausages","description":"Doloribus urbs charisma damnatio cursim supplanto volva bellum voluntarius tertius.","pageCount":263,"excerpt":"Tutis nisi vomer quisquam ambulo fuga inventore soluta volaticus tubineus. Traho causa benevolentia. Comes aliqua agnosco tempora.","publishDate":"2026-06-09T07:39:14.255Z"}
+[BODY] {"id":0,"title":"Handmade Metal Chicken","description":"Celer adiuvo tristis tyrannus comitatus cito.","pageCount":995,"excerpt":"Paulatim praesentium valde dolorem teres adhuc umbra calculus cura. Adiuvo eveniet aer cuius. Decipio illo abstergo appositus quod tenus sublime.","publishDate":"2026-07-02T09:11:27.154Z"}
 [BooksApi] Book creation response received with status: 200
 [BooksApi] Book created successfully with ID: 0
 [DataCleaner] Starting cleanup of 1 actions

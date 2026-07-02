@@ -1,5 +1,0 @@
-[BooksApi] Creating book: Oriental Silk Shoes
-[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
-[BODY] {"id":0,"title":"Oriental Silk Shoes","description":"Spero capto clibanus cohibeo odit comparo succurro.","pageCount":60,"excerpt":"Valetudo damno spargo cum comprehendo stella xiphias vinitor. Inventore tergeo sed temeritas. Curatio canto tepidus spero aequitas.","publishDate":"invalid-date"}
-[BooksApi] Book creation response received with status: 400
-[BooksApi] Book creation failed with status: 400

@@ -1,0 +1,5 @@
+[BooksApi] Creating book: Small Metal Bacon
+[API REQUEST] POST https://fakerestapi.azurewebsites.net/api/v1/Books
+[BODY] {"id":0,"title":"Small Metal Bacon","description":"Accendo timor temperantia animi adversus.","pageCount":708,"excerpt":"Earum quos caelum thesaurus delectatio claudeo taceo. Suffragium deserunt utrimque admiratio vigor. Tristis apto crur adversus debeo.","publishDate":"invalid-date"}
+[BooksApi] Book creation response received with status: 400
+[BooksApi] Book creation failed with status: 400
